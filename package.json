@@ -1,0 +1,17 @@
+{
+  "name": "jest_testing",
+  "version": "1.0.0",
+  "description": "for jest course ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --watchAll"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.6.4"
+  },
+  "jest": {
+    "collectCoverage": true
+  }
+}

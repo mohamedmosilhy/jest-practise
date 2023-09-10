@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<coverage generated="1694379628006" clover="3.2.0">
+  <project timestamp="1694379628006" name="All files">
+    <metrics statements="19" coveredstatements="18" conditionals="12" coveredconditionals="12" methods="5" coveredmethods="4" elements="36" coveredelements="34" complexity="0" loc="19" ncloc="19" packages="1" files="5" classes="5"/>
+    <file name="all.js" path="E:\programming_stuff\dev\web_practise\JEST\all.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="0" coveredmethods="0"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="3" count="1" type="stmt"/>
+    </file>
+    <file name="input.js" path="E:\programming_stuff\dev\web_practise\JEST\input.js">
+      <metrics statements="10" coveredstatements="10" conditionals="12" coveredconditionals="12" methods="1" coveredmethods="1"/>
+      <line num="10" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="11" count="1" type="stmt"/>
+      <line num="14" count="4" type="cond" truecount="4" falsecount="0"/>
+      <line num="15" count="1" type="stmt"/>
+      <line num="18" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="19" count="1" type="stmt"/>
+      <line num="22" count="4" type="cond" truecount="2" falsecount="0"/>
+      <line num="23" count="1" type="stmt"/>
+      <line num="25" count="4" type="stmt"/>
+      <line num="28" count="1" type="stmt"/>
+    </file>
+    <file name="mock.js" path="E:\programming_stuff\dev\web_practise\JEST\mock.js">
+      <metrics statements="2" coveredstatements="1" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="0"/>
+      <line num="2" count="0" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="say.js" path="E:\programming_stuff\dev\web_practise\JEST\say.js">
+      <metrics statements="2" coveredstatements="2" conditionals="0" coveredconditionals="0" methods="1" coveredmethods="1"/>
+      <line num="2" count="1" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+    <file name="sum.js" path="E:\programming_stuff\dev\web_practise\JEST\sum.js">
+      <metrics statements="3" coveredstatements="3" conditionals="0" coveredconditionals="0" methods="2" coveredmethods="2"/>
+      <line num="1" count="1" type="stmt"/>
+      <line num="2" count="12" type="stmt"/>
+      <line num="5" count="1" type="stmt"/>
+    </file>
+  </project>
+</coverage>
